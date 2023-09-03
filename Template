@@ -5,7 +5,7 @@ using namespace std;
 #define endl "\n"
 #define Endl "\n"
 typedef long long ll;
-typedef long l;
+typedef long l; 
 //-----------input string with space;-----------
 /* char c
 cin>>c
