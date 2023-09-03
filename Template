@@ -1,1 +1,23 @@
-hello
+#include <bits/stdc++.h>
+using namespace std;
+#define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define PI 3.141592653
+#define endl "\n"
+#define Endl "\n"
+typedef long long ll;
+typedef long l;
+//-----------input string with space;-----------
+/* char c
+cin>>c
+getline(cin,s);
+s=c+s;
+*/
+// bool int_check(float g)//check a number is int or not
+// {
+//    int res=g/1;
+//    if(res*1==g)
+//    return 1;
+//    else
+//    return 0;
+// }
+//if x=m*n then mod of x is (m mod * n mod)mod
